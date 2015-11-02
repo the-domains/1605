@@ -1,0 +1,23 @@
+name: '1605'
+favicon: null
+layout_spectrum: 0.821144208079204
+typography_spectrum: 0.13592038536444306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9462737925350666
+  lightness: 0.7126625939272344
+  saturation: 0.39539021346718073
+  rhythmicContrast: 0.7627020357176661
+purpose: []
